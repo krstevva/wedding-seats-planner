@@ -1,0 +1,54 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/0q7h_next_dist_compiled_0jo_e2n._.js",
+      "static/chunks/0q7h_next_dist_shared_lib_0~po100._.js",
+      "static/chunks/0q7h_next_dist_client_0kv66uj._.js",
+      "static/chunks/0q7h_next_dist_0u-wli_._.js",
+      "static/chunks/0q7h_next_app_0w.bwk4.js",
+      "static/chunks/[next]_entry_page-loader_ts_04mnin8._.js",
+      "static/chunks/0q7h_react_08ljjaq._.js",
+      "static/chunks/0q7h_react-dom_cjs_react-dom_development_0b0~j_b.js",
+      "static/chunks/0q7h_react-dom_12ap5y.._.js",
+      "static/chunks/0q7h_0s1.dv7._.js",
+      "static/chunks/[root-of-the-server]__048zssr._.js",
+      "static/chunks/Desktop_wedding-planner_pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-Desktop_wedding-planner_pages__app_06hx~ji._.js"
+    ],
+    "/_error": [
+      "static/chunks/0q7h_next_dist_compiled_0jo_e2n._.js",
+      "static/chunks/0q7h_next_dist_shared_lib_0ztwxer._.js",
+      "static/chunks/0q7h_next_dist_client_0kv66uj._.js",
+      "static/chunks/0q7h_next_dist_0izyy4-._.js",
+      "static/chunks/[next]_entry_page-loader_ts_0ikr~ii._.js",
+      "static/chunks/0q7h_react_08ljjaq._.js",
+      "static/chunks/0q7h_react-dom_cjs_react-dom_development_0b0~j_b.js",
+      "static/chunks/0q7h_react-dom_12ap5y.._.js",
+      "static/chunks/0q7h_0s1.dv7._.js",
+      "static/chunks/[root-of-the-server]__09v-l~1._.js",
+      "static/chunks/Desktop_wedding-planner_pages__error_07xvfw~._.js",
+      "static/chunks/turbopack-Desktop_wedding-planner_pages__error_0lk4i8c._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0q7h_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_11x17g~._.js",
+    "static/chunks/0q7h_next_dist_compiled_next-devtools_index_0q5l0~o.js",
+    "static/chunks/0q7h_next_dist_compiled_react-dom_02qxhee._.js",
+    "static/chunks/0q7h_next_dist_compiled_react-server-dom-turbopack_06o_bo8._.js",
+    "static/chunks/0q7h_next_dist_compiled_0obo~ip._.js",
+    "static/chunks/0q7h_next_dist_client_06.qz6t._.js",
+    "static/chunks/0q7h_next_dist_1183wwn._.js",
+    "static/chunks/0q7h_@swc_helpers_cjs_0d8r_bf._.js",
+    "static/chunks/Desktop_wedding-planner_0rqeker._.js",
+    "static/chunks/turbopack-Desktop_wedding-planner_027nbh7._.js"
+  ]
+};

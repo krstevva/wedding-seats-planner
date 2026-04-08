@@ -1,0 +1,14 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/0q7h_next_dist_compiled_0jo_e2n._.js",
+  "static/chunks/0q7h_next_dist_shared_lib_0ztwxer._.js",
+  "static/chunks/0q7h_next_dist_client_0kv66uj._.js",
+  "static/chunks/0q7h_next_dist_0izyy4-._.js",
+  "static/chunks/[next]_entry_page-loader_ts_0ikr~ii._.js",
+  "static/chunks/0q7h_react_08ljjaq._.js",
+  "static/chunks/0q7h_react-dom_cjs_react-dom_development_0b0~j_b.js",
+  "static/chunks/0q7h_react-dom_12ap5y.._.js",
+  "static/chunks/0q7h_0s1.dv7._.js",
+  "static/chunks/[root-of-the-server]__09v-l~1._.js",
+  "static/chunks/Desktop_wedding-planner_pages__error_07xvfw~._.js",
+  "static/chunks/turbopack-Desktop_wedding-planner_pages__error_0lk4i8c._.js"
+])
