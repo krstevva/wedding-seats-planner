@@ -69,7 +69,7 @@ export default function Home() {
         { table: 6, top: "5%", left: "20%" },
         { table: 7, top: "5%", left: "30%" },
         { table: 9, top: "20%", left: "20%" },
-        { table: 10, top: "20%", left: "30%" },
+        { table: 10, top: "15%", left: "30%" },
 
         // MAIN GRID RIGHT SIDE
         { table: 8, top: "5%", left: "55%" },
